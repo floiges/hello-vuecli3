@@ -2,6 +2,10 @@
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <anchored-heading :level="2">
+      dsadsadsadasd
+      sdasdasdasdsads
+    </anchored-heading>
   </div>
 </template>
 

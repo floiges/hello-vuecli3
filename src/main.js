@@ -1,5 +1,6 @@
 import Vue from 'vue'
 import App from './App.vue'
+import'./components/anchored-heading';
 
 Vue.config.productionTip = false
 
